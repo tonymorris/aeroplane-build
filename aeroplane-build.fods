@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:creation-date>2019-03-29T10:36:23.346232761</meta:creation-date><dc:date>2019-03-30T09:20:11.920365021</dc:date><meta:editing-duration>PT16H14M41S</meta:editing-duration><meta:editing-cycles>28</meta:editing-cycles><meta:generator>LibreOffice/5.4.5.1$Linux_X86_64 LibreOffice_project/40m0$Build-1</meta:generator><meta:document-statistic meta:table-count="1" meta:cell-count="188" meta:object-count="8"/></office:meta>
+ <office:meta><meta:creation-date>2019-03-29T10:36:23.346232761</meta:creation-date><dc:date>2019-04-14T19:56:39.781239950</dc:date><meta:editing-duration>PT16H19M22S</meta:editing-duration><meta:editing-cycles>29</meta:editing-cycles><meta:generator>LibreOffice/5.4.5.1$Linux_X86_64 LibreOffice_project/40m0$Build-1</meta:generator><meta:document-statistic meta:table-count="1" meta:cell-count="188" meta:object-count="8"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
@@ -13,8 +13,8 @@
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
      <config:config-item-map-named config:name="Tables">
       <config:config-item-map-entry config:name="Sheet1">
-       <config:config-item config:name="CursorPositionX" config:type="int">3</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">7</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">9</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">13</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
@@ -84,7 +84,7 @@
    <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
    <config:config-item config:name="RasterSubdivisionY" config:type="int">1</config:config-item>
    <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">kQH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsgAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MApjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6QTQAABIAQ09NUEFUX0RVUExFWF9NT0RFDwBEdXBsZXhNb2RlOjpPZmY=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">kQH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsgAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MApjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKUGFnZVNpemU6QTQARHVwbGV4Ok5vbmUAABIAQ09NUEFUX0RVUExFWF9NT0RFDwBEdXBsZXhNb2RlOjpPZmY=</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
   </config:config-item-set>
@@ -407,7 +407,7 @@
      <text:p><text:sheet-name>???</text:sheet-name><text:s/>(<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2019-03-30">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="18:41:18.502385780">00:00:00</text:time></text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2019-04-14">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="19:51:58.763229246">00:00:00</text:time></text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
@@ -536,7 +536,7 @@
       </draw:frame>
      </table:table-cell>
      <table:table-cell table:style-name="ce15">
-      <draw:frame table:end-cell-address="Sheet1.E3" table:end-x="13.72mm" table:end-y="4.34mm" draw:z-index="2" draw:name="Image 3" draw:style-name="gr1" draw:text-style-name="P1" svg:width="4.22mm" svg:height="4.22mm" svg:x="9.51mm" svg:y="0.12mm">
+      <draw:frame table:end-cell-address="Sheet1.E3" table:end-x="13.72mm" table:end-y="4.34mm" draw:z-index="2" draw:name="Image 3" draw:style-name="gr1" draw:text-style-name="P1" svg:width="4.21mm" svg:height="4.22mm" svg:x="9.53mm" svg:y="0.12mm">
        <draw:image xlink:href="">
         <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAAlw
          SFlzAAAOxAAADsQBlSsOGwAAAaBJREFUOI3NkctqFFEURVe97O6qVLeRjo9CJ+JIkRBwqv6A
@@ -554,7 +554,7 @@
       </draw:frame>
      </table:table-cell>
      <table:table-cell table:style-name="ce21">
-      <draw:frame table:end-cell-address="Sheet1.F3" table:end-x="14.78mm" table:end-y="4.34mm" draw:z-index="3" draw:name="Image 4" draw:style-name="gr1" draw:text-style-name="P1" svg:width="4.22mm" svg:height="4.22mm" svg:x="10.57mm" svg:y="0.12mm">
+      <draw:frame table:end-cell-address="Sheet1.F3" table:end-x="14.78mm" table:end-y="4.34mm" draw:z-index="3" draw:name="Image 4" draw:style-name="gr1" draw:text-style-name="P1" svg:width="4.21mm" svg:height="4.22mm" svg:x="10.59mm" svg:y="0.12mm">
        <draw:image xlink:href="">
         <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAAlw
          SFlzAAAOxAAADsQBlSsOGwAAAU5JREFUOI3lUT9PwnAQfRRH0dhSE6S24mcwMTExYTOOxMFo
@@ -570,7 +570,7 @@
       </draw:frame>
      </table:table-cell>
      <table:table-cell table:style-name="ce15">
-      <draw:frame table:end-cell-address="Sheet1.G3" table:end-x="15.64mm" table:end-y="4.45mm" draw:z-index="4" draw:name="Image 5" draw:style-name="gr1" draw:text-style-name="P1" svg:width="4.22mm" svg:height="4.22mm" svg:x="11.43mm" svg:y="0.23mm">
+      <draw:frame table:end-cell-address="Sheet1.G3" table:end-x="15.64mm" table:end-y="4.45mm" draw:z-index="4" draw:name="Image 5" draw:style-name="gr1" draw:text-style-name="P1" svg:width="4.21mm" svg:height="4.22mm" svg:x="11.45mm" svg:y="0.23mm">
        <draw:image xlink:href="">
         <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAAlw
          SFlzAAAOxAAADsQBlSsOGwAAAaBJREFUOI3NkctqFFEURVe97O6qVLeRjo9CJ+JIkRBwqv6A
@@ -588,7 +588,7 @@
       </draw:frame>
      </table:table-cell>
      <table:table-cell table:style-name="ce21">
-      <draw:frame table:end-cell-address="Sheet1.H3" table:end-x="16.83mm" table:end-y="4.33mm" draw:z-index="5" draw:name="Image 5" draw:style-name="gr1" draw:text-style-name="P1" svg:width="4.22mm" svg:height="4.22mm" svg:x="12.62mm" svg:y="0.11mm">
+      <draw:frame table:end-cell-address="Sheet1.H3" table:end-x="16.83mm" table:end-y="4.33mm" draw:z-index="5" draw:name="Image 5" draw:style-name="gr1" draw:text-style-name="P1" svg:width="4.21mm" svg:height="4.22mm" svg:x="12.64mm" svg:y="0.11mm">
        <draw:image xlink:href="">
         <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAAlw
          SFlzAAAOxAAADsQBlSsOGwAAAaBJREFUOI3NkctqFFEURVe97O6qVLeRjo9CJ+JIkRBwqv6A
@@ -606,7 +606,7 @@
       </draw:frame>
      </table:table-cell>
      <table:table-cell table:style-name="ce15">
-      <draw:frame table:end-cell-address="Sheet1.I3" table:end-x="15.24mm" table:end-y="4.33mm" draw:z-index="6" draw:name="Image 5" draw:style-name="gr1" draw:text-style-name="P1" svg:width="4.21mm" svg:height="4.22mm" svg:x="11.04mm" svg:y="0.11mm">
+      <draw:frame table:end-cell-address="Sheet1.I3" table:end-x="15.24mm" table:end-y="4.33mm" draw:z-index="6" draw:name="Image 5" draw:style-name="gr1" draw:text-style-name="P1" svg:width="4.2mm" svg:height="4.22mm" svg:x="11.04mm" svg:y="0.11mm">
        <draw:image xlink:href="">
         <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAAlw
          SFlzAAAOxAAADsQBlSsOGwAAAaBJREFUOI3NkctqFFEURVe97O6qVLeRjo9CJ+JIkRBwqv6A
@@ -624,7 +624,7 @@
       </draw:frame>
      </table:table-cell>
      <table:table-cell table:style-name="ce28">
-      <draw:frame table:end-cell-address="Sheet1.J3" table:end-x="16.66mm" table:end-y="4.23mm" draw:z-index="7" draw:name="Image 5" draw:style-name="gr1" draw:text-style-name="P1" svg:width="4.21mm" svg:height="4.22mm" svg:x="12.47mm" svg:y="0.01mm">
+      <draw:frame table:end-cell-address="Sheet1.J3" table:end-x="16.66mm" table:end-y="4.23mm" draw:z-index="7" draw:name="Image 5" draw:style-name="gr1" draw:text-style-name="P1" svg:width="4.19mm" svg:height="4.22mm" svg:x="12.49mm" svg:y="0.01mm">
        <draw:image xlink:href="">
         <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAAlw
          SFlzAAAOxAAADsQBlSsOGwAAAaBJREFUOI3NkctqFFEURVe97O6qVLeRjo9CJ+JIkRBwqv6A
@@ -898,8 +898,8 @@
      <table:table-cell table:formula="of:=ROUND([.I10]-([.I14]*0.72))" office:value-type="float" office:value="325" calcext:value-type="float">
       <text:p>325</text:p>
      </table:table-cell>
-     <table:table-cell table:formula="of:=ROUND([.J10]-([.J14]*0.72))" office:value-type="float" office:value="338" calcext:value-type="float">
-      <text:p>338</text:p>
+     <table:table-cell table:formula="of:=ROUND([.J10]-([.J14]*0.72))" office:value-type="float" office:value="335" calcext:value-type="float">
+      <text:p>335</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="6"/>
@@ -994,11 +994,8 @@
      <table:table-cell table:number-columns-repeated="2" office:value-type="float" office:value="150" calcext:value-type="float">
       <text:p>150</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="174" calcext:value-type="float">
+     <table:table-cell table:number-columns-repeated="2" office:value-type="float" office:value="174" calcext:value-type="float">
       <text:p>174</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="float" office:value="170" calcext:value-type="float">
-      <text:p>170</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="6"/>
